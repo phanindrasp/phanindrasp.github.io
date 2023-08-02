@@ -3,23 +3,19 @@ title: "Welcome to Jekyll"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+For those of you unfamiliar with Indian music, ragas are a unique concept central to traditional Indian music. A slightly similar construct is a maqam in Arabic music. A raga can be defined as an abstract musical entity consisting of certain musical motifs or phrases capable of inducing a certain mood or emotion in the listener. Ragas are interesting as they’re not usually based on a certain scale or follow well-specified rules.   
 
+Now, what can be similar between ragas, genders and deities? It is the issue of classification/categorization. It is an innate human need to categorize things into different baskets. When we categorize things into baskets, we underestimate the differences between items in the same basket and overestimate the differences between items in different baskets. Though it makes life convenient at times, it also causes deep problems.  “How do we classify this into categories?” is the question people have been asking about genders, ragas as well as deities. When I give examples of deities later, I will stick to the deities in Hindu pantheon though the same can be said about many cultures.  
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+First, let’s talk about what gender is and how it is classified. Unlike sex, which is biological, gender is a mental (and a social) construct. Life is very simple when we assume that the gender is binary. But as we notice more and more people around us, this claim of gender being binary obviously falls apart. Each individual’s traits are so unique that it’s almost impossible to come up with a metric against which everyone can be categorized. By imposing a certain framework of gender for people to fit into, we hinder the true expression of an individual. 
 
-Jekyll also offers powerful support for code snippets:
+A very similar thing can be said about ragas. Each and every raga is so unique that it has a history of its own. Those familiar with a little bit of music theory might know that apart from the major and the minor scale that are predominantly used in the west, many eastern cultures use a lot more scales. In south Indian music, these are called melakartas. You can construct 72 scales/melakartas using different combinations of notes. People started categorizing these ragas into these 72 baskets for convenience. But it didn’t stop there. They treated the basket as the parent raga and all those inside as its children. This reductionist view of raga by looking at it as a bunch of notes led to many problems. As soon as you notice an item in the basket transgresses some rules, you make amendments so that it fits the behavior of its parent raga. Even though I’m simplifying a lot, very similar things have happened due to this kind of classification. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+For instance, ragas such as ananda bhairavi or kapi use almost all the notes in their phrases making it almost impossible to fit them into a certain parent scale. To further complicate this issue, many ragas use notes that are impossible to play in many of the 12 note equi-tempered instruments of today as these notes are a few microtones above or below the usual note. Most of this music in India is still orally transmitted. However, notating these subtle details is still a big challenge. Another layer of complexity on top of all this is the high use of ornamentation in the phrases of these ragas. There are instances of many ragas that use almost an identical set of notes but are just different based on the minute ornamentations that weave these notes together. To summarize, I just want to point out the futility of these classification attempts as they oversee the subtleties of this mind-boggling diversity.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Finally, let’s come to my personal take on the classification of deities, especially in an Indian context. There are over 5 lakh temples in India, dedicated to numerous deities. History and the evolution of religion has been complex throughout India. Though the culture has been majorly polytheistic, there were attempts made to unify these different kinds of worship. Various philosophical ideologies were propounded over time by different saints and reformers. Similarly, worship of three deities, shiva, vishnu and devi grew very popular over time due to multiple reasons. Due to this, if people came across an ancient deity, they ascribe it to one of these three deities depending on who is more powerful in that region. Stories and folks were woven to justify why their favorite deity took such a form. Not only does this lead to loss of history but also loss of individuality of these deities.  
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+This is not the case with some obscure alienated deities. Tirupati temple in south India that houses a deity of Balaji is world popular. It is one of the most visited religious places in the whole world. However, the true identity of this deity is very nebulous and lost in time. Though he’s considered as a form of vishnu almost unanimously, very few people know the true history. There is evidence that at some point of history, people worshiped the deity as a form of shiva and devi too. Absence of conch and wheel (trademark weapons of vishnu) raises questions about the deity being vishnu. THe temple being located on  a hill (major characteristic of Muruga temples), presence of snake ornaments (characteristic of shiva) confuses us even more. Few customs followed in the temple also add evidence pointing to the deity being devi too. In the midst of this confusion, the deity was converted to vishnu almost overnight when a philosopher visited the temple. This is the same problem again, loss of individuality, history and customs due to forceful fitting of a unique entity to fit the frameworks that we constructed. 
+
+    
+
