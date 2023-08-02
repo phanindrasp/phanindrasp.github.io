@@ -27,7 +27,7 @@
         <img src="https://i.pinimg.com/564x/48/bf/c9/48bfc9ae0a10418849a3f50d57c08897.jpg">
       </div>
       <div class="text">
-        <h1>This is a beautiful garden.</h1>
+        <h1>This is a beautiful garden. This is a beautiful garden. This is a beautiful garden. This is a beautiful garden. This is a beautiful garden. This is a beautiful garden.</h1>
       </div>
     </div>
   </body>
