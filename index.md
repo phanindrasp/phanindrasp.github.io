@@ -3,6 +3,38 @@ layout: page
 title: "About me"
 ---
 
-  <img style=" float: left;" src="pp3.jpg" width="125" hspace="100">
+
+<html>
+  <head>
+    <title>Pretty flower</title>
+  </head>
+  <style>
+  .container {
+    align-items: center;
+    justify-content: center;
+  }
   
-I'm a research scholar at the Indian Institute of Technology, Madras. My Bachelors's and Master's were from the same institute in Engineering Design with a specialization in automotive engineering. I also have a minor in physics. Currently, I work on particle-based modeling techniques for solids and fluids. Other than work, I'm passionate about ancient history, the evolution of religion, philosophy, astronomy, and music. You can check out my blog, where I post my thoughts.
+  img {
+    max-width: 25%;
+    max-height:15%;
+    float: left;
+  }
+  
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 20%;
+    float: left;
+  }
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="pp3.jpg">
+      </div>
+      <div class="text">
+        <h1>I'm a research scholar at the Indian Institute of Technology, Madras. My Bachelors's and Master's were from the same institute in Engineering Design with a specialization in automotive engineering. I also have a minor in physics. Currently, I work on particle-based modeling techniques for solids and fluids. Other than work, I'm passionate about ancient history, the evolution of religion, philosophy, astronomy, and music. You can check out my blog, where I post my thoughts.</h1>
+      </div>
+    </div>
+  </body>
+</html>
