@@ -15,13 +15,13 @@ title: "About me"
   }
   
   img {
-    max-width: 25%;
-    max-height:15%;
+    max-width: 20%;
+    max-height:10%;
     float: left;
   }
   
   .text {
-    font-size: 20px;
+    font-size: 10px;
     padding-left: 20px;
     padding-top: 20%;
     float: left;
