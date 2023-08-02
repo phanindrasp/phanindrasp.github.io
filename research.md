@@ -1,33 +1,31 @@
 <html>
   <head>
-    <title>Pretty flower</title>
+    <title>Pretty Paris</title>
   </head>
   <style>
   .container {
-    align-items: center;
-    justify-content: center;
-  }
-  
-  img {
-    max-width: 25%;
-    max-height:15%;
-    float: left;
-  }
-  
-  .text {
-    font-size: 20px;
-    padding-left: 20px;
-    padding-top: 20%;
-    float: left;
-  }
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
   </style>
   <body>
     <div class="container">
       <div class="image">
-        <img src="https://i.pinimg.com/564x/48/bf/c9/48bfc9ae0a10418849a3f50d57c08897.jpg">
+        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg">
       </div>
       <div class="text">
-        <h1>This is a beautiful garden. This is a beautiful garden. This is a beautiful garden. This is a beautiful garden. This is a beautiful garden. This is a beautiful garden.</h1>
+        <h1>Paris is one of the most magnificient cities in France.</h1>
       </div>
     </div>
   </body>
