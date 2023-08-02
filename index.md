@@ -22,8 +22,8 @@ title: "About me"
   
   .text {
     font-size: 10px;
-    padding-left: 20px;
-    padding-top: 20%;
+    padding-left: 10px;
+    padding-top: 10%;
     float: left;
   }
   </style>
