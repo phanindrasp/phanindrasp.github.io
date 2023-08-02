@@ -1,4 +1,3 @@
-html<!DOCTYPE html>
 <html>
   <head>
     <title>Pretty flower</title>
