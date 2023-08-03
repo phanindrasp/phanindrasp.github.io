@@ -22,7 +22,7 @@ img {
 
 .text {
   font-size: 10px;
-  padding-left: 20px;
+  padding-left: 40px;
 }
   </style>
   <body>
