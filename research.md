@@ -3,45 +3,15 @@ layout: page
 title: "Projects"
 ---
 
-
-<html>
-  <head>
-    <title>Pretty Paris</title>
-  </head>
-  <style>
-  .container {
-  display: flex;
-  align-items: center;
-  justify-content: center
-}
-
-img {
-  max-width: 100%;
-  max-height:100%;
-}
-
-.text {
-  font-size: 10px;
-  padding-left: 20px;
-}
-  </style>
-  <body>
-    <div class="container">
-      <div class="image">
-        <img src="pp3.png">
-      </div>
-      <div class="text">
-        <h1> Some text about this </h1>
-      </div>
-  
-      <div class="image">
-        <img src="pp3.png">
-      </div>
-      <div class="text">
-        <h1> Some text about this </h1>
-      </div>
+  <div class="image-wrapper">
+        <img src="img1.png">
+        <figcaption> "caption 1" </figcaption>
     </div>
-    
-  </body>
-</html>
-
+    <div class="image-wrapper">
+        <img src="img2.png">
+        <figcaption> "caption 1" </figcaption>
+    </div>
+    <div class="image-wrapper"> 
+        <img src="img3.png">
+        <figcaption> "caption 1" </figcaption>
+    </div>
