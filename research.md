@@ -4,4 +4,7 @@ title: "Projects"
 ---
 
 
-<img src="https://www.computerhope.com/chguy.gif" alt="Computer Hope guy holding Computer Hope logo" title="Visit Computer Hope">
+ <figure>
+  <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure> 
