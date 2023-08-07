@@ -33,9 +33,7 @@ img {
       <div class="text">
         <h1> Some text about this </h1>
       </div>
-    </div>
-
-     <div class="container">
+  
       <div class="image">
         <img src="pp3.png">
       </div>
