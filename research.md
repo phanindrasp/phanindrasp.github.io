@@ -26,7 +26,7 @@ title: "Projects"
                 <div class="col ">
                     <div class="container gallery">
                         <div class="gallery-item">
-                            <img class="sports" src="img/block1Sports.jpg">
+                            <img class="sports" src="pp3.png">
                             <h3 class="text1" >Sports</h3>
                         </div>
                         <div class="gallery-item">
