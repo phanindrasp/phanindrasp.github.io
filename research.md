@@ -27,8 +27,8 @@ img {
 
 <div class="wrap">
 
+<h4 class="heading-text">Project-1 </h4>
 <div class="container">
-   <h4 class="heading-text">Project-1 </h4>
   <div class="image">
      <img src="res1.jpg">
       </div>
@@ -37,8 +37,8 @@ img {
       </div>
 </div>
 
-<div class="container">
   <h4 class="heading-text">Project-2 </h4>
+  <div class="container">  
   <div class="image">
      <img src="pp3.png">
       </div>
@@ -47,8 +47,8 @@ img {
       </div>
 </div>
 
-<div class="container">
   <h4 class="heading-text">Project-3 </h4>
+  <div class="container">
   <div class="image">
      <img src="pp3.png">
       </div>
