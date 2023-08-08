@@ -37,3 +37,47 @@ title: "Projects"
 
 </div>
 
+
+body {
+  margin: 0;
+}
+.wrap {
+  max-width: 980px;
+  margin: auto;
+}
+
+.nav-logo {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
+
+nav {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  padding: 0.5rem;
+  background-color: #f55a5a;
+}
+
+.heading-text {
+  padding: 10px;
+  margin: 0;
+  color: white;
+  font-size: 1.4rem;
+  font-family: "Arial Rounded MT Bold";
+}
+
+.picture-cards {
+  display: flex;
+  padding: 1rem;
+  border-bottom: 2px solid red;
+}
+
+.destination-pictures {
+  width: 125px;
+  height: 168px;
+}
+.picture-content {
+  padding: 0 1rem;
+}
