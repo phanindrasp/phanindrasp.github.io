@@ -4,42 +4,36 @@ title: "Projects"
 ---
 
 
-body{
-    margin:0;
-}
 
 
-.nav-logo{
-    width:24px;
-    height: 24px;
-}
+<div class="wrap">
+  <nav>
+    <img src="https://picsum.photos/id/238/24/24" class="nav-logo" />
+    <h4 class="heading-text">My Travel Journal.</h4>
+  </nav>
+  <div class="picture-cards">
+    <img src="https://picsum.photos/id/237/125/168" alt="test Img" class="destination-pictures">
+    <div class="picture-content">
+      <h5 class="destination-title">Item Title here</h5>
+      <p>Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem </p>
+    </div>
+  </div>
 
-nav{
-    height:70px;
-    align-items: center;
-    display: flex;
-    padding: 10px 650px;
-    background-color: #F55A5A;
-}
+  <div class="picture-cards">
+    <img src="https://picsum.photos/id/1016/125/168" alt="test Img" class="destination-pictures">
+    <div class="picture-content">
+      <h5 class="destination-title">Item Title here</h5>
+      <p>Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem </p>
+    </div>
+  </div>
 
-.heading-text{
-    padding:10px;
-    color:white;
-    font-size:20px;
-    font-family: "Arial Rounded MT Bold";
-}
+  <div class="picture-cards">
+    <img src="https://picsum.photos/id/240/125/168" alt="test Img" class="destination-pictures">
+    <div class="picture-content">
+      <h5 class="destination-title">Item Title here</h5>
+      <p>Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem </p>
+    </div>
+  </div>
 
-.picture-cards{
-    align-items: center;
-    display:flex;
-}
+</div>
 
-.destination-pictures{
-    width:125px;
-    height: 168px;
-    padding-top: 100px;
-    padding-bottom: 20px;
-    padding-left: 700px;
-
-
-}
