@@ -15,7 +15,7 @@ title: "Projects"
     <img src="https://picsum.photos/id/237/125/168" alt="test Img" class="destination-pictures">
     <div class="picture-content">
       <h5 class="destination-title">Item Title here</h5>
-      <p>Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem </p>
+      <h1>Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem Lorem isum dolor sit amet lorem </h1>
     </div>
   </div>
 
