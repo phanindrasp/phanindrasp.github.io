@@ -25,7 +25,7 @@ img {
   </style>
   <body>
 
-<div class="wrap">
+<div class="container">
    <h4 class="heading-text">Project-1 </h4>
   <div class="image">
      <img src="res1.jpg">
