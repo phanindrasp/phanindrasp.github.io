@@ -11,7 +11,7 @@ title: "Projects"
     <img src="https://picsum.photos/id/238/24/24" class="nav-logo" />
     <h4 class="heading-text">My Travel Journal.</h4>
   </nav>
-   <h4 class="heading-text">My Travel Journal.</h4>
+   <h4 class="heading-text">Project-1 </h4>
   <div class="picture-cards">
     <img src="https://picsum.photos/id/237/125/168" alt="test Img" class="destination-pictures">
     <div class="picture-content">
@@ -20,6 +20,7 @@ title: "Projects"
     </div>
   </div>
 
+  <h4 class="heading-text">Project-2 </h4>
   <div class="picture-cards">
     <img src="https://picsum.photos/id/1016/125/168" alt="test Img" class="destination-pictures">
     <div class="picture-content">
@@ -28,6 +29,7 @@ title: "Projects"
     </div>
   </div>
 
+  <h4 class="heading-text">Project-3 </h4>
   <div class="picture-cards">
     <img src="https://picsum.photos/id/240/125/168" alt="test Img" class="destination-pictures">
     <div class="picture-content">
