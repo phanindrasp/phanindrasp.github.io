@@ -30,7 +30,7 @@ img {
 <h4 class="heading-text">Developing a novel fluid-structure interaction(FSI) framework </h4>
 <div class="container">
   <div class="image">
-     <img src="res1.jpg">
+     <img src="pic.png">
       </div>
       <div class="text">
         <h1></h1>
@@ -40,7 +40,7 @@ img {
   <h4 class="heading-text">Learning inter-particle interaction forces from trajectories using deep learning </h4>
   <div class="container">  
   <div class="image">
-     <img src="pp3.png">
+     <img src="pic.png">
       </div>
       <div class="text">
         <h1></h1>
@@ -50,7 +50,7 @@ img {
   <h4 class="heading-text">Estimating the reamining life of a drive bearing due toi electric erosion</h4>
   <div class="container">
   <div class="image">
-     <img src="pp3.png">
+     <img src="pic.png">
       </div>
       <div class="text">
         <h1></h1>
