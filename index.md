@@ -15,8 +15,8 @@ title: "About me"
 }
 
 img {
-  max-width: 100%;
-  max-height:100%;
+  max-width: 200%;
+  max-height:200%;
 }
 
 .text {
