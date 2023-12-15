@@ -11,7 +11,7 @@ title: "Projects"
 }
 
 body {
-  background-color: #f1f1f1;
+  background-color: #000000;
   padding: 20px;
   font-family: Arial;
 }
@@ -52,7 +52,7 @@ h1 {
 
 /* Content */
 .content {
-  background-color: black;
+  background-color: white;
   padding: 10px;
 }
 
