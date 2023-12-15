@@ -86,7 +86,7 @@ h1 {
 <div class="row">
   <div class="column">
     <div class="content">
-      <img src="res.jpg" alt="Mountains" style="width:100%">
+      <img src="res.jpg">
       <h3 style="color:white;"> My Work</h3>
        <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
