@@ -86,28 +86,28 @@ h1 {
 <div class="row">
   <div class="column">
     <div class="content">
-      <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
+      <img src="res.jpg" alt="Mountains" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
+    <img src="res.jpg" alt="Lights" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
+    <img src="res.jpg" alt="Nature" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
+    <img src="res.jpg" alt="Mountains" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
@@ -116,7 +116,7 @@ h1 {
 </div>
 
 <div class="content">
-  <img src="/w3images/p3.jpg" alt="Bear" style="width:100%">
+  <img src="res.jpg" alt="Bear" style="width:100%">
   <h3>Some Other Work</h3>
   <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
   <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
