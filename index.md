@@ -33,7 +33,8 @@ title: "About me"
        <img src="pic.jpg"> 
       </div>
       <div class="text">
-        <h1>About me bla bla blah</h1>
+        <h1>I am a PhD candidate at the Department of Engineering Design, IIT Madras, where I apply computational modeling and simulation techniques to diverse disciplines, such as solid and fluid mechanics.
+</h1>
       </div>
     </div>
   </body>
