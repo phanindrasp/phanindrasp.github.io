@@ -2,7 +2,6 @@
 layout: page
 title: "About me"
 ---
-[Link to research] ({% link research.md %})
 <html>
   <head>
     <title>The title of the document</title>
@@ -30,10 +29,11 @@ title: "About me"
   <body>
     <div class="container">
       <div class="image">
-       <img src="pic.jpg"> 
+       <img src="/pic.jpg"> 
       </div>
       <div class="text">
-        <h1>I am a PhD candidate at the Department of Engineering Design, IIT Madras, where I apply computational modeling and simulation techniques to diverse disciplines, such as solid and fluid mechanics.
+        <h1>I am a PhD candidate at the Department of Engineering Design, IIT Madras, where I apply computational modeling and simulation techniques to diverse disciplines, such as solid and fluid mechanics. [Link to research] ({% link /research.md %})
+
 </h1>
       </div>
     </div>
