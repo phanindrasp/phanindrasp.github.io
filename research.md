@@ -3,128 +3,34 @@ layout: page
 title: "Projects"
 ---
 <html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
+  <head>
+    <title>The title of the document</title>
+    <style>
+      .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+      }
+      img {
+        max-width: 100%
+      }
+      .image {
+        flex-basis: 40%;
+        order; 2;
+      }
+      .text {
+        font-size: 20px;
+        padding-left: 20px;
+        font: italic 10px "Fira Sans", serif;
+      }
 
-body {
-  background-color: #000000;
-  padding: 20px;
-  font-family: Arial;
-}
-
-/* Center website */
-.main {
-  max-width: 1000px;
-  margin: auto;
-}
-
-h1 {
-  font-size: 50px;
-  word-break: break-all;
-}
-
-.row {
-  margin: 8px -16px;
-}
-
-/* Add padding BETWEEN each column */
-.row,
-.row > .column {
-  padding: 8px;
-}
-
-/* Create four equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 25%;
-}
-
-/* Clear floats after rows */ 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Content */
-.content {
-  background-color: black;
-  padding: 10px;
-}
-
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 900px) {
-  .column {
-    width: 50%;
-  }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
-</style>
-</head>
-<body>
-
-<!-- MAIN (Center website) -->
-<div class="main">
-
-<h1 style="color:white;">MYLOGO.COM</h1>
-<hr>
-
-<h2 style="color:white;">PORTFOLIO</h2>
-<p style="color:white;">Resize the browser window to see the responsive effect.</p>
-
-<!-- Portfolio Gallery Grid -->
-<div class="row">
-  <div class="column">
-    <div class="content">
-      <img src="res.jpg">
-      <h3 style="color:white;"> My Work</h3>
-       <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="content">
-    <img src="res.jpg" alt="Lights" style="width:100%">
-      <h3 style="color:white;"> My Work</h3>
-      <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="content">
-    <img src="res.jpg" alt="Nature" style="width:100%">
-      <h3 style="color:white;"> My Work</h3>
-      <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="content">
-    <img src="res.jpg" alt="Mountains" style="width:100%">
-      <h3 style="color:white;"> My Work</h3>
-       <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
-    </div>
-  </div>
-<!-- END GRID -->
-</div>
-
-<div class="content">
-  <img src="/w3images/p3.jpg" alt="Bear" style="width:100%">
-  <h3 style="color:white;"> My Work</h3>
-   <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
-   <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
-</div>
-
-<!-- END MAIN -->
-</div>
-
-</body>
-</html>
-
+   </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="image">
+       <img src="pic.jpg"> 
+      </div>
+      <div class="text">
+        <h1>I am a PhD candidate at the Department of Engineering Design, IIT Madras, where I apply computational modeling and simulation techniques to diverse disciplines, such as solid and fluid mechanics.
+</h1>
