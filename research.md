@@ -52,7 +52,7 @@ h1 {
 
 /* Content */
 .content {
-  background-color: white;
+  background-color: black;
   padding: 10px;
 }
 
