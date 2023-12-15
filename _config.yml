@@ -32,3 +32,10 @@ comments:
 
 plugins:
  - jekyll-feed
+
+ gems:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
