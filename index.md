@@ -34,7 +34,7 @@ title: "About me"
        <img src="pic.jpg"> 
       </div>
       <div class="text">
-        <h1>London is the capital and largest city of England.</h1>
+        <h1>About me bla bla blah</h1>
       </div>
     </div>
   </body>
