@@ -2,7 +2,7 @@
 layout: page
 title: "About me"
 ---
-
+<!DOCTYPE html>
 <html>
   <head>
     <title>The title of the document</title>
