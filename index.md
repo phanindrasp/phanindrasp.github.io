@@ -4,11 +4,11 @@ title: "About me"
 ---
 
 [Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) 
-
+The title of the document [Project-1](research.md)
 
 <html>
   <head>
-    <title>The title of the document [Project-1](research.md)</title>
+    <title></title>
     <style>
       .container {
         display: flex;
