@@ -2,7 +2,7 @@ title: "Phanindra Paravastu"
 author: "Phani"
 description: "Personal website and blog"
 permalink: /:title/
-url: phanindrasp.github.io
+url: "https://phanindrasp.github.io/"
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
