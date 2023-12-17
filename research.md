@@ -95,7 +95,7 @@ h1 {
     <div class="content">
     <img src="/res.jpg" alt="Lights" style="width:100%">
       <h3 style="color:white;"> My Work</h3>
-      <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+      <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no.  <a href="https://www.mozilla.org/en-US/"> the Mozilla homepage</a>. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
   <div class="column">
