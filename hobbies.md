@@ -6,9 +6,6 @@ title: "Hobbies"
 <html>
 <head>
 <style>
-h3 {text-align: center;}
-p {text-align: center;}
-
 * {
   box-sizing: border-box;
 }
