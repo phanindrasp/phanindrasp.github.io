@@ -35,18 +35,18 @@ p {text-align: center;}
 <div class="row">
   <div class="column">
     <img src="img_snow.jpg" alt="Snow" style="width:100%">
-     <h3 style="color:black;"> My Work</h3>
-     <p style="color:black;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+     <h3 style="color:white;"> My Work</h3>
+     <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
   </div>
   <div class="column">
     <img src="img_forest.jpg" alt="Forest" style="width:100%">
-    <h3 style="color:black;"> My Work</h3>
-     <p style="color:black;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    <h3 style="color:white;"> My Work</h3>
+     <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
   </div>
   <div class="column">
     <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
-    <h3 style="color:black;"> My Work</h3>
-     <p style="color:black;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    <h3 style="color:white;"> My Work</h3>
+     <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
   </div>
 </div>
 
