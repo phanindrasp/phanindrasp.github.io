@@ -6,22 +6,9 @@ title: "Hobbies"
 <html>
 <head>
 <style>
-* {
-  box-sizing: border-box;
-}
+h3 {text-align: center;}
+p {text-align: center;}
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 </style>
 </head>
 <body>
