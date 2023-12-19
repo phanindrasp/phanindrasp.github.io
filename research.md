@@ -57,14 +57,14 @@ h1 {
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1800px) {
   .column {
     width: 50%;
   }
 }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1200px) {
   .column {
     width: 100%;
   }
