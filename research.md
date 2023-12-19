@@ -57,7 +57,7 @@ h1 {
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 1800px) {
+@media screen and (max-width: 2400px) {
   .column {
     width: 50%;
   }
