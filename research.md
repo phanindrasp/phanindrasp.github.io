@@ -112,18 +112,22 @@ h1 {
        <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
+    <div class="column">
+    <div class="content">
+    <img src="/res.jpg" alt="Mountains" style="width:100%">
+      <h3 style="color:white;"> My Work</h3>
+       <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    </div>
+  </div>
+    <div class="column">
+    <div class="content">
+    <img src="/res.jpg" alt="Mountains" style="width:100%">
+      <h3 style="color:white;"> My Work</h3>
+       <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    </div>
+  </div>
 <!-- END GRID -->
-</div>
 
-<div class="content">
-  <img src="/res.jpg" alt="Bear" style="width:100%">
-  <h3 style="color:white;"> My Work</h3>
-   <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
-   <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
-</div>
-
-<!-- END MAIN -->
-</div>
 
 </body>
 </html>
