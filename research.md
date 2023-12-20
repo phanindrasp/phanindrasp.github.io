@@ -6,6 +6,8 @@ title: "Projects"
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+h3 {text-align: center;}
+p {text-align: center;}
 * {
   box-sizing: border-box;
 }
