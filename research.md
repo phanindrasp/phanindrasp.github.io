@@ -89,42 +89,42 @@ h1 {
   <div class="column">
     <div class="content">
       <img src="/res.jpg" alt="Mountains" style="width:100%">
-      <h3 style="color:white;"> My Work</h3>
+      <h3 style="color:white;"> Particle-based simulation of fluid-structure interaction:</h3>
        <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
     <img src="/res.jpg" alt="Lights" style="width:100%">
-      <h3 style="color:white;"> <a href="https://phanindrasp.github.io/blog/"> My work</a>. </h3>
+      <h3 style="color:white;"> <a href="https://phanindrasp.github.io/blog/"> Learning interaction force in an n-body simulation using deep learning:</a>. </h3>
       <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no.   Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
     <img src="/res.jpg" alt="Nature" style="width:100%">
-      <h3 style="color:white;"> My Work</h3>
+      <h3 style="color:white;"> Does nature always prefer a least resistance path? - An experiment:</h3>
       <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
     <img src="/res.jpg" alt="Mountains" style="width:100%">
-      <h3 style="color:white;"> My Work</h3>
+      <h3 style="color:white;"> Agent-based modeling of a toy stock market:</h3>
        <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
     <div class="column">
     <div class="content">
     <img src="/res.jpg" alt="Mountains" style="width:100%">
-      <h3 style="color:white;"> My Work</h3>
+      <h3 style="color:white;"> Estimating the life of ball bearings in electric motors: </h3>
        <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
     <div class="column">
     <div class="content">
     <img src="/res.jpg" alt="Mountains" style="width:100%">
-      <h3 style="color:white;"> My Work</h3>
+      <h3 style="color:white;"> Exploring fractal-inspired heat exchanger geometries:</h3>
        <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
