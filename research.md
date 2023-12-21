@@ -102,7 +102,7 @@ h1 {
   </div>
   <div class="column">
     <div class="content">
-    <img src="/res.jpg" alt="Nature" style="width:100%">
+    <img src="/res3.jpg" alt="Nature" style="width:100%">
       <h3 style="color:white;"> Does nature always prefer a least resistance path? - An experiment:</h3>
       <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
