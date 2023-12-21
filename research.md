@@ -88,7 +88,7 @@ h1 {
 <div class="row">
   <div class="column">
     <div class="content">
-      <img src="/res.jpg" alt="Mountains" style="width:100%">
+      <img src="/res1.eps" alt="Mountains" style="width:100%">
       <h3 style="color:white;"> Particle-based simulation of fluid-structure interaction:</h3>
        <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
