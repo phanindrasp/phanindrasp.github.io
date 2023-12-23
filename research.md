@@ -96,7 +96,7 @@ h1 {
   <div class="column">
     <div class="content">
     <img src="/res.jpg" alt="Lights" style="width:100%">
-      <h3 style="color:white;"> <a href="https://phanindrasp.github.io/blog/"> Learning interaction force in an n-body simulation using deep learning:</a>. </h3>
+      <h3 style="color:white;"> <a href="https://phanindrasp.github.io/blog/"> Learning interaction force in particle simulations using deep learning:</a>. </h3>
       <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no.   Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
