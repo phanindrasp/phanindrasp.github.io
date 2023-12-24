@@ -101,7 +101,7 @@ We have developed a novel particle-based framework to model FSI problems that ca
     <div class="content">
     <img src="/res2.jpg" alt="Lights" style="width:100%">
       <h3 style="color:white;"> <a href="https://phanindrasp.github.io/research/"> Learning interaction force in particle simulations using deep learning</a> </h3>
-      <p style="color:white;">Particle-based simulations involve treating a domain (solid or a fluid for instance) as a bunch of particles that are interacting with each other in a certain fashion. Given particle trajectory data, the proposed ANN spits out the interaction force.</p>
+      <p style="color:white;">Particle-based simulations involve treating a domain (solid or a fluid for instance) as a bunch of particles that are interacting with each other in a certain fashion. Upon training with particle trajectory data, the proposed ANN learns the interaction force.</p>
     </div>
   </div>
   <div class="column">
