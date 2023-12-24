@@ -83,7 +83,7 @@ h1 {
   <div class="column">
     <div class="content">
       <img src="/res1.gif" alt="Mountains" style="width:100%">
-      <h3 style="color:white;"> Particle-based simulation of fluid-structure interaction </h3>
+      <h3 style="color:white;"> <a href="https://phanindrasp.github.io/research/"> Particle-based simulation of fluid-structure interaction </a> </h3>
        <p style="color:white;">Fluid-structure interaction (FSI) is a phenomenon widespread in science and engineering, ranging from biomedical to aeronautics applications among many others. In spite of this great relevance, FSI models have struggled to account for two aspects: <br> <br>
 
 1. Incorporating structural failure. <br>
@@ -95,28 +95,28 @@ We have developed a novel particle-based framework to model FSI problems that ca
   <div class="column">
     <div class="content">
     <img src="/res2.jpg" alt="Lights" style="width:100%">
-      <h3 style="color:white;"> <a href="https://phanindrasp.github.io/blog/"> Learning interaction force in particle simulations using deep learning:</a>. </h3>
+      <h3 style="color:white;"> <a href="https://phanindrasp.github.io/research/"> Learning interaction force in particle simulations using deep learning</a> </h3>
       <p style="color:white;">Particle-based simulations involve treating a domain (solid or a fluid for instance) as a bunch of particles that are interacting with each other in a certain fashion. Given particle trajectory data, the proposed ANN spits out the interaction force.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
     <img src="/res3.jpg" alt="Nature" style="width:100%">
-      <h3 style="color:white;"> Does nature always prefer a least resistance path? - An experiment:</h3>
+      <h3 style="color:white;"> <a href="https://phanindrasp.github.io/research/">Does nature always prefer a least resistance path? - An experiment </a> </h3>
       <p style="color:white;">There are many controversial hypotheses regarding the teleological nature of the universe, i.e. the universe evolves with an end goal in mind. We explore one such hypothesis. </p>
     </div>
   </div>
     <div class="column">
     <div class="content">
     <img src="/res4.jpg" alt="Mountains" style="width:100%">
-      <h3 style="color:white;"> Estimating the life of ball bearings in electric drives: </h3>
+      <h3 style="color:white;"> <a href="https://phanindrasp.github.io/research/"> Estimating the life of ball bearings in electric drives </a> </h3>
        <p style="color:white;">Ball bearings in electric drives are subject to electric erosion, which causes small pits on the surface. This reduces the life of the ball bearings. </p>
     </div>
   </div>
     <div class="column">
     <div class="content">
     <img src="/res5.jpg" alt="Mountains" style="width:100%">
-      <h3 style="color:white;"> Exploring fractal-inspired heat exchanger geometries:</h3>
+      <h3 style="color:white;"> <a href="https://phanindrasp.github.io/research/"> Exploring fractal-inspired heat exchanger geometries </a> </h3>
        <p style="color:white;">Heat exchangers are widely used in various industries. We explore novel heat exchanger geometries inspired by space filling fractal curves.</p>
     </div>
   </div>
