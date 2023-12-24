@@ -121,10 +121,3 @@ We have developed a novel particle-based framework to model FSI problems that ca
     </div>
   </div>
 <!-- END GRID -->
-</body>
-</html>
-
-
-</body>
-</html>
-
