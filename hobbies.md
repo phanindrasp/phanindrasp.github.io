@@ -39,7 +39,7 @@ p {text-align: center;}
      <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
   </div>
   <div class="column">
-    <img src="/star.jpg" alt="Forest" style="width:100%">
+    <img src="/star.png" alt="Forest" style="width:100%">
     <h3 style="color:white;"> Stargazing</h3>
      <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
   </div>
