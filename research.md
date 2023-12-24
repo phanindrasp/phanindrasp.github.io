@@ -77,9 +77,7 @@ h1 {
 
 <!-- MAIN (Center website) -->
 <div class="main">
-
 <hr>
-
 <!-- Portfolio Gallery Grid -->
 <div class="row">
   <div class="column">
