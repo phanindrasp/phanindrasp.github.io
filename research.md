@@ -109,7 +109,7 @@ We have developed a novel particle-based framework to model FSI problems that ca
     <div class="content">
     <img src="/res3.jpg" alt="Nature" style="width:100%">
       <h3 style="color:white;"> Does nature always prefer a least resistance path? - An experiment:</h3>
-      <p style="color:white;"></p>
+      <p style="color:white;">There are many controversial hypotheses regarding the teleological nature of the universe, i.e. the universe evolves with an end goal in mind. We explore one such hypothesis. </p>
     </div>
   </div>
     <div class="column">
@@ -123,7 +123,7 @@ We have developed a novel particle-based framework to model FSI problems that ca
     <div class="content">
     <img src="/res5.jpg" alt="Mountains" style="width:100%">
       <h3 style="color:white;"> Exploring fractal-inspired heat exchanger geometries:</h3>
-       <p style="color:white;">LHeat exchangers are widely used in various industries. We explore novel heat exchanger geometries inspired by space filling fractal curves.</p>
+       <p style="color:white;">Heat exchangers are widely used in various industries. We explore novel heat exchanger geometries inspired by space filling fractal curves.</p>
     </div>
   </div>
 <!-- END GRID -->
