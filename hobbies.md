@@ -34,12 +34,12 @@ p {text-align: center;}
 
 <div class="row">
   <div class="column">
-    <img src="/res.jpg" alt="Snow" style="width:100%">
+    <img src="/carnatic.png" alt="Snow" style="width:100%">
      <h3 style="color:white;"> Carnatic music</h3>
      <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
   </div>
   <div class="column">
-    <img src="/res.jpg" alt="Forest" style="width:100%">
+    <img src="/star.jpg" alt="Forest" style="width:100%">
     <h3 style="color:white;"> Stargazing</h3>
      <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
   </div>
