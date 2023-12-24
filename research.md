@@ -107,13 +107,6 @@ h1 {
       <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
-  <div class="column">
-    <div class="content">
-    <img src="/res.jpg" alt="Mountains" style="width:100%">
-      <h3 style="color:white;"> Agent-based modeling of a toy stock market:</h3>
-       <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
-    </div>
-  </div>
     <div class="column">
     <div class="content">
     <img src="/res4.jpg" alt="Mountains" style="width:100%">
