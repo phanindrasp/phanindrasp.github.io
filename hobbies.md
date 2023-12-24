@@ -43,7 +43,7 @@ p {text-align: center;}
   <div class="column">
     <img src="/res.jpg" alt="Mountains" style="width:100%">
     <h3 style="color:white;"> Philosophy</h3>
-     <p style="color:white;">I'm also passionate about theology and the history of religion. I'm really curious about the greek philosphers from the pre-socratic era, who share a lot of commen elements with the Indian vedic and upanishadic thought. I also love reading books. I'm currently reading Fernando Pessoa's masterpiece "Book of Disquiet".</p>
+     <p style="color:white;">I'm also passionate about theology and the history of religion. I'm really curious about the greek philosphers from the pre-socratic era, whose philosophies share a lot of common elements with the Indian vedic and upanishadic thought. I also love reading books. Currently reading Fernando Pessoa's masterpiece "Book of Disquiet".</p>
   </div>
 </div>
 
