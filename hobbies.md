@@ -41,9 +41,9 @@ p {text-align: center;}
      <p style="color:white;">I love to explore the grandeur of the nightsky. I keep searching for places around me with low light pollution. Above are the pictures of saturn and jupiter from my 3 inch scope taken from my phone :)  </p>
   </div>
   <div class="column">
-    <img src="/res.jpg" alt="Mountains" style="width:100%">
+    <img src="/phil.jpg" alt="Mountains" style="width:100%">
     <h3 style="color:white;"> Philosophy</h3>
-     <p style="color:white;">I'm also passionate about theology and the history of religion. I'm really curious about the greek philosphers from the pre-socratic era, whose philosophies share a lot of common elements with the Indian vedic and upanishadic thought. I also love reading books. Currently reading Fernando Pessoa's masterpiece "Book of Disquiet".</p>
+     <p style="color:white;">I'm also passionate about theology and the history of religion. I'm really curious about the greek philosphers from the pre-socratic era, whose philosophies share a lot of common elements with the Indian vedic and upanishadic thought.</p>
   </div>
 </div>
 
