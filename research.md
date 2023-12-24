@@ -94,7 +94,8 @@ h1 {
 
 1. Incorporating structural failure.
 2. Incorporating complex contitutive behavior of the solid.
-We have developed a novel particle-based framework to model FSI problems that can incorporate both the above aspects with ease..</p>
+   
+We have developed a novel particle-based framework to model FSI problems that can incorporate both the above aspects with ease.</p>
     </div>
   </div>
   <div class="column">
