@@ -33,12 +33,12 @@ p {text-align: center;}
   <div class="column">
     <img src="/carnatic.png" alt="Snow" style="width:100%">
      <h3 style="color:white;"> Carnatic music</h3>
-     <p style="color:white;">I'm an avid listener of raga music, especially carnatic (South Indian). Whenever I get time, you'll find me musing over old recordings of maestros such as M D Ramanathan and M Balamuralikrishna. Apart from Indian music, I also enjoy listening to promiment western composers like Chopin, Vivaldi and Mozart. </p>
+     <p style="color:white;">I'm an avid listener of raga music, especially carnatic (South Indian). Whenever I get time, you'll find me musing over old recordings of maestros such as M D Ramanathan and M Balamuralikrishna. Apart from Indian music, I also enjoy listening to prominent western composers like Chopin, Vivaldi and Mozart. </p>
   </div>
   <div class="column">
     <img src="/star.png" alt="Forest" style="width:100%">
     <h3 style="color:white;"> Stargazing</h3>
-     <p style="color:white;">I love to explore the grandeur of the nightsky. I keep searching for places around me with low light pollution. Above are the pictures of saturn and jupiter from my 3 inch scope taken from my phone :)  </p>
+     <p style="color:white;">I love to explore the grandeur of the nightsky. I keep searching for places around me with low light pollution. Above are the pictures of saturn and jupiter from my 3 inch scope taken using my phone :)  </p>
   </div>
   <div class="column">
     <img src="/phil.jpg" alt="Mountains" style="width:100%">
