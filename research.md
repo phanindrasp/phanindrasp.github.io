@@ -12,6 +12,11 @@ p {text-align: center;}
   box-sizing: border-box;
 }
 
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 body {
 /*  background-color: #000000; */
   padding: 20px;
