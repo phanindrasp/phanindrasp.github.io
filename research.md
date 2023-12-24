@@ -78,11 +78,7 @@ h1 {
 <!-- MAIN (Center website) -->
 <div class="main">
 
-<h1 style="color:white;">MYLOGO.COM</h1>
 <hr>
-
-<h2 style="color:white;">PORTFOLIO</h2>
-<p style="color:white;">Resize the browser window to see the responsive effect.</p>
 
 <!-- Portfolio Gallery Grid -->
 <div class="row">
