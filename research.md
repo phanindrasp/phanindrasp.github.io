@@ -88,14 +88,14 @@ h1 {
 <div class="row">
   <div class="column">
     <div class="content">
-      <img src="/res1.eps" alt="Mountains" style="width:100%">
+      <img src="/res1.jpg" alt="Mountains" style="width:100%">
       <h3 style="color:white;"> Particle-based simulation of fluid-structure interaction:</h3>
        <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-    <img src="/res.jpg" alt="Lights" style="width:100%">
+    <img src="/res2.jpg" alt="Lights" style="width:100%">
       <h3 style="color:white;"> <a href="https://phanindrasp.github.io/blog/"> Learning interaction force in particle simulations using deep learning:</a>. </h3>
       <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no.   Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
@@ -116,14 +116,14 @@ h1 {
   </div>
     <div class="column">
     <div class="content">
-    <img src="/res.jpg" alt="Mountains" style="width:100%">
+    <img src="/res4.jpg" alt="Mountains" style="width:100%">
       <h3 style="color:white;"> Estimating the life of ball bearings in electric motors: </h3>
        <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
   </div>
     <div class="column">
     <div class="content">
-    <img src="/res.jpg" alt="Mountains" style="width:100%">
+    <img src="/res5.jpg" alt="Mountains" style="width:100%">
       <h3 style="color:white;"> Exploring fractal-inspired heat exchanger geometries:</h3>
        <p style="color:white;">Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
