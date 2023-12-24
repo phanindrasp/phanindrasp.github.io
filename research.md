@@ -83,7 +83,7 @@ h1 {
   <div class="column">
     <div class="content">
       <img src="/res1.gif" alt="Mountains" style="width:100%">
-      <h3 style="color:white;"> Computational modeling of failure in fluid-structure interaction </h3>
+      <h3 style="color:white;"> Particle-based simulation of fluid-structure interaction </h3>
        <p style="color:white;">Fluid-structure interaction (FSI) is a phenomenon widespread in science and engineering, ranging from biomedical to aeronautics applications among many others. In spite of this great relevance, FSI models have struggled to account for two aspects: <br> <br>
 
 1. Incorporating structural failure. <br>
@@ -121,6 +121,8 @@ We have developed a novel particle-based framework to model FSI problems that ca
     </div>
   </div>
 <!-- END GRID -->
+</body>
+</html>
 
 
 </body>
