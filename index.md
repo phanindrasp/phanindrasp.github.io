@@ -33,7 +33,7 @@ title: "About me"
        <img src="/dp.jpg"> 
       </div>
       <div class="text">
-        <h1>I’m passionate about computational modeling and simulation of systems across various disciplines. I’ve worked on particle-based modeling of fluids and solids as a part of my PhD at IIT Madras. I’ve also developed a deep learning framework for particle-based simulations involving multi-body interactions. With the advent of AI in all fields, I'm curious about the scope and utility of physics-informed neural network models that enrich vanilla NN models by incorporating our knowledge of physics. You can have a look at the <a href="https://phanindrasp.github.io/research/"> projects </a> page for more details. 
+        <h1>I’m passionate about computational modeling and simulation of systems across various disciplines. I’ve worked on particle-based modeling of fluids and solids as a part of my PhD at IIT Madras. I’ve also developed a deep learning framework for particle-based simulations involving multi-body interactions. With the advent of AI in various fields, I'm curious about the scope and utility of physics-informed neural network models that enrich vanilla NN models by incorporating our knowledge of physics. You can have a look at the <a href="https://phanindrasp.github.io/research/"> projects </a> page for more details. 
 
 </h1>
       </div>
