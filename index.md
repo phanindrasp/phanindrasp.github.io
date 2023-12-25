@@ -13,7 +13,7 @@ title: "About me"
         justify-content: center
       }
       img {
-        width: 200px;
+        width: 300px;
         height: 300px;
       }
       .image {
