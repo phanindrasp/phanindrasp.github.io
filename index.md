@@ -13,8 +13,8 @@ title: "About me"
         justify-content: center
       }
       img {
-        width: 300px;
-        height: 300px;
+        width: 150px;
+        height: 150px;
       }
       .image {
         flex-basis: 40%;
