@@ -30,7 +30,7 @@ title: "About me"
   <body>
     <div class="container">
       <div class="image">
-       <img src="/dpg.JPG"> 
+       <img src="/dp.jpg"> 
       </div>
       <div class="text">
         <h1>I am a PhD candidate at the Department of Engineering Design, IIT Madras, where I apply computational modeling and simulation techniques to diverse disciplines, such as solid and fluid mechanics. 
